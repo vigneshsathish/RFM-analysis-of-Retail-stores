@@ -1,0 +1,2 @@
+# RFM-analysis-of-Retail-stores
+CUSTOMER SEGMENTATION BASED ON RFM ANALYSIS
